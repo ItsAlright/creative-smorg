@@ -11,8 +11,7 @@
             This is a place where you can observe all my projects in the past years and now. As well as some concepts that I'm planning to add in the future.
         </p>
         <p class="text-lg text-gray-400 max-w-2xl mx-auto">
-            My name is Fife. I'm a passsionate developer focused on creating elegant solution to complex problems.
-            Experienced in web development, cloud technologies, and building scalable applications.
+            My name is Fife. I'm a passsionate developer focused on creating art, stories, music, and games for all to enjoy.
         </p>
         <p class="text-lg max-w-2xl mx-auto">
             Enjoy!

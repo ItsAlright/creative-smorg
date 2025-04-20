@@ -1,11 +1,11 @@
 <script>
   const projects = [
     {
-      title: "Project One",
-      description: "A brief description of your first project",
+      title: "Float Test",
+      description: "This is a game that I made during my time with Scratch.",
       technologies: ["SvelteKit", "TypeScript", "Tailwind"],
-      imageUrl: "/placeholder-1.jpg",
-      link: "https://github.com/yourusername/project-one"
+      imageUrl: "/float-test-thumbnail.png",
+      link: "https://creativesmorg.com/float-test"
     },
     {
       title: "Project Two",
